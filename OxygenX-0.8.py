@@ -88,7 +88,7 @@ OxygenX:
 
   proxy:
     # If proxies should be used, Will be proxyless if set to false (Recommended to use VPN if this is set to false.)
-    proxy: true
+    proxy: false
     # Proxy types: https | socks4 | socks5
     proxy_type: 'socks4'
     # EXPERMENTAL! Still in testing stage, may have problems
